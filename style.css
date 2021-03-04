@@ -1,0 +1,23 @@
+div{
+    width:100%;
+}
+
+.div1{
+    height: 50px;
+    background-color: black;
+}
+
+.div2{
+    height: 400px;
+    background-color:red;
+}
+
+.div3{
+    height: 50px;
+    background-color:black;
+}
+
+.div4{
+    height: 50px;
+    background-color: blue;
+}
